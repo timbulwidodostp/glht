@@ -1,6 +1,8 @@
 # glht
 General Linear Hypotheses Use glht (multcomp) With (In) R Software
 
+https://www.youtube.com/watch?v=VKxCz3jkv-U
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
